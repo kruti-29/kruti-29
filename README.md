@@ -64,6 +64,9 @@
    <a href="https://www.leetcode.com/kruti_2906" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kruti_2906" width="52" height="40" alt="medium logo"  />
   </a>
+  <a href="https://www.hackerrank.com/profile/krutivachhani136" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
 
 </div>
 
