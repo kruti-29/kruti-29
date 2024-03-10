@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Full Stack Social Media Web<br>🌱 I’m currently learning React JS<br>💬 Ask me about C/C++,JS, Web Stack<br>📫 How to reach me krutivachhani136@gmail.com</p>
+<p align="left">🔭 I’m currently working on Full Stack Social Media Web<br>🌱 I’m currently learning React JS<br>💬 Ask me about C/C++,JS, Web Stack<br>📫 How to reach me [krutivachhani136@gmail.com](mailto:krutivachhani136@gmail.com)</p>
 
 ###
 
@@ -57,9 +57,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/kruti-vachhani-46a2a823a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@krutivachhani136" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
    <a href="https://www.leetcode.com/kruti_2906" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kruti_2906" width="52" height="40" alt="medium logo"  />
