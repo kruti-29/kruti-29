@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Full Stack Social Media Web<br>🌱 I’m currently learning React JS<br>💬 Ask me about C/C++,JS, Web Stack<br>📫 How to reach me [krutivachhani136@gmail.com](mailto:krutivachhani136@gmail.com)</p>
+🔭 I’m currently working on Full Stack Social Media Web<br>🌱 I’m currently learning React JS<br>💬 Ask me about C/C++,JS, Web Stack<br>📫 How to reach me [krutivachhani136@gmail.com](mailto:krutivachhani136@gmail.com)
 
 ###
 
